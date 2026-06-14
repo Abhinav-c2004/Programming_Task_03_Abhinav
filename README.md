@@ -1,4 +1,4 @@
-# Python and C Programming - Task 03: Loops, Patterns & Basic Automation
+# Python Programming - Task 03: Loops, Patterns & Basic Automation
 
 ## Part A: Multiplication Table Generator
 
