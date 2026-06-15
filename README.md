@@ -40,7 +40,7 @@ This program stores a predefined password and allows a maximum of three login at
 
 ### Output
 
-![Password Attempt Simulator](screenshots/Screenshot%202026-06-14%20215118.png)
+![Password Attempt Simulator](screenshots/Screenshot 2026-06-14 215442.png)
 
 ---
 
